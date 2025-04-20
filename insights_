@@ -1,0 +1,5 @@
+Create insights
+-Neste desafio, criamos um Data Factory e relaizamos as configurações de:
+* Configuramos um repositório no GITHUB para realizarmos os commits e salvamento automatiocos para versionamento e colaboração para atividades do DATAFACTORY.
+* Confoiguramos um pipeline de dados "simples" no DATAFACTORY para verificar as atualizações no reposit[orio do GIT.
+* Essa automação com o GIT facilita a documentação, organização e colaboração de todos os processos criados.
