@@ -1,0 +1,9 @@
+{
+	"name": "adf-eirim",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d05153d-25c0-4c34-b124-435767350f10",
+		"tenantId": "d9d0562d-1ad8-4b90-9ed1-d65c87fa6640"
+	}
+}
